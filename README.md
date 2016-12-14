@@ -1,2 +1,2 @@
-# practice-PersonManager_learn
+# PersonManager_learn
 refer to project of PersonManager
